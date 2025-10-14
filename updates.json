@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/Brian83937/ScreenCaptureApp-Releases/releases/download/v1.0.0/ScreenCaptureApp.exe",
+  "releaseNotes": "Initial release with screenshot capture and hotkey support",
+  "releaseDate": "2024-10-14",
+  "minVersion": "1.0.0"
+}
