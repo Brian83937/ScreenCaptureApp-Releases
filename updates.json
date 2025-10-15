@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/Brian83937/ScreenCaptureApp-Releases/releases/download/v1.0.0/ScreenCaptureApp.exe",
-  "releaseNotes": "Initial release with screenshot capture and hotkey support",
-  "releaseDate": "2024-10-14",
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/Brian83937/ScreenCaptureApp-Releases/releases/download/v1.0.1/ScreenCaptureApp.exe",
+  "releaseNotes": "New in v1.0.1:\n- Hotkey recorder with custom key binding\n- Reset to default hotkey feature\n- Persistent hotkey settings\n- Improved user interface",
+  "releaseDate": "2025-10-14",
   "minVersion": "1.0.0"
 }
